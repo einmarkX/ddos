@@ -1,1 +1,1 @@
-# DDOS BY M24-XT v1.0-0
+# DDOS BY M24-XT v1.2-0 Beta
